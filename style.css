@@ -1,0 +1,10 @@
+head{
+  text-align: center;
+}
+body{
+  margin: 50px;
+  text-align: center;
+}
+canvas {
+  display: block;
+}
